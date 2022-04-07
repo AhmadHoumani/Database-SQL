@@ -1,0 +1,7 @@
+INT				    	//Whole Number
+Decimal(10,4)		//Decimal Number with 2 args 	
+VARCHAR 			  //One char		
+BLOB				    //A very big data of binary (Images/Files)	
+DATE			    	//YYYY-MM-DD	
+TIMESTAMP		   	//YYYY-MM-DD HH:MM:SS		
+
